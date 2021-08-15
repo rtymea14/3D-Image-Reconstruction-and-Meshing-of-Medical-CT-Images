@@ -1,0 +1,11 @@
+>> pathtool
+>> rehash
+>> which vol2mesh
+/home/raihan/Documents/isoMesh/iso2mesh-1.9.6/vol2mesh.m
+>> save mydata V_conn
+>> load mydata.mat
+>> [node,elem,face]=v2m(V_conn,0.5,2,100);
+>> plotmesh(node,face)
+>> plotmesh(node,face)
+>> savestl(node,elem,fname,solidname)
+>> savestl(node,elem,"/home/raihan/Documents/bone.stl",bone)
