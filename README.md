@@ -33,7 +33,7 @@ Mesh -> 3D
 ```
 <img src="https://github.com/rtymea14/3D-Image-Reconstruction-and-Meshing-of-Medical-CT-Images/blob/main/volmesh1.PNG" width="350" height="175" />
 
-<img src="https://github.com/rtymea14/3D-Image-Reconstruction-and-Meshing-of-Medical-CT-Images/blob/main/volmesh2.PNG width="350" height="175" />
+<img src="https://github.com/rtymea14/3D-Image-Reconstruction-and-Meshing-of-Medical-CT-Images/blob/main/volmesh2.PNG" width="350" height="175" />
 
 ## References
 1.  [Nie, Z., Lin, Y., and Tong, Q., 2017, "Modeling structures of open cell foams," Computational Materials Science, 131, pp. 160-169.](http://dx.doi.org/10.1016/j.commatsci.2017.01.029)
