@@ -4,7 +4,7 @@
 ## Overview
 A mthod to obtain 3D volume mesh from a CT scan image is presented. CT or mico-CT images are usually in DICOM or .nrrd formats. Here CT image of a human femur, [femur31.nrrd](femur31.nrrd), obtained form the 3D slicer database is used to demonstrate  the methodology. The image is first read into 3d Slicer program which allows exporting the image into other formats. A snapshot of the femur in 3d Slicer is shown.
 
-<img src="https://github.com/rtymea14/3D-Image-Reconstruction-and-Meshing-of-Medical-CT-Images/blob/main/slicerImage.png" width="350" height="175" />
+<img src="https://github.com/rtymea14/3D-Image-Reconstruction-and-Meshing-of-Medical-CT-Images/blob/main/slicerImage.png" width="700" height="350" />
 
 The .nrrd image is saved into a multipage .tiff image called [bones.tiff](bones.tiff). The multipage .tiff image is further converted into single .tiff [images](selected) using [ImageMagick](https://imagemagick.org/index.php). The required command is:
 ```
